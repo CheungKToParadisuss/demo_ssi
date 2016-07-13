@@ -1,5 +1,3 @@
-# demo_ssi
-
 @echo off
 rem Licensed to the Apache Software Foundation (ASF) under one or more
 rem contributor license agreements.  See the NOTICE file distributed with
